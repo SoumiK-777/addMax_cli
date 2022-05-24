@@ -30,7 +30,7 @@ if __name__ == "__main__":
              *   Enter a list of numbers and select any one of the following: *
              *   1. Print sum of given numbers                                *
              *   2. Print the largest number in given list                    *
-             *   3. Exit
+             *   3. Exit                                                      *
              ******************************************************************\n""")
     l=input("Enter list of numbers:").split()
     n=input("Enter your choice:")
